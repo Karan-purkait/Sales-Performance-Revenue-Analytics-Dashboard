@@ -1,0 +1,31 @@
+location_id,city,state,region,country
+LOC001,Kolkata,West Bengal,East,India
+LOC002,Howrah,West Bengal,East,India
+LOC003,Durgapur,West Bengal,East,India
+LOC004,Siliguri,West Bengal,East,India
+LOC005,Mumbai,Maharashtra,West,India
+LOC006,Pune,Maharashtra,West,India
+LOC007,Nagpur,Maharashtra,West,India
+LOC008,Nashik,Maharashtra,West,India
+LOC009,Bengaluru,Karnataka,South,India
+LOC010,Mysuru,Karnataka,South,India
+LOC011,Mangaluru,Karnataka,South,India
+LOC012,Delhi,Delhi,North,India
+LOC013,Noida,Uttar Pradesh,North,India
+LOC014,Lucknow,Uttar Pradesh,North,India
+LOC015,Jaipur,Rajasthan,North,India
+LOC016,Chandigarh,Chandigarh,North,India
+LOC017,Chennai,Tamil Nadu,South,India
+LOC018,Coimbatore,Tamil Nadu,South,India
+LOC019,Hyderabad,Telangana,South,India
+LOC020,Warangal,Telangana,South,India
+LOC021,Ahmedabad,Gujarat,West,India
+LOC022,Surat,Gujarat,West,India
+LOC023,Bhopal,Madhya Pradesh,West,India
+LOC024,Indore,Madhya Pradesh,West,India
+LOC025,Bhubaneswar,Odisha,East,India
+LOC026,Patna,Bihar,East,India
+LOC027,Kochi,Kerala,South,India
+LOC028,Thiruvananthapuram,Kerala,South,India
+LOC029,Gurugram,Haryana,North,India
+LOC030,Ludhiana,Punjab,North,India
